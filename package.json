@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node ./dist/main.js",
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"   
   },
   "author": "Mihail OLARU",
   "license": "MIT",
