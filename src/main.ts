@@ -1,5 +1,5 @@
 import { App } from './app';
-import { LoggerService } from 'logger/logger.service'
+import { LoggerService } from './logger/logger.service.js'
 
 async function bootstrap() {
 	// Dep. injection. App is dependent of LoggerService
